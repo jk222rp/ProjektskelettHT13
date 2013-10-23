@@ -1,29 +1,21 @@
 
-# Projektnamn här
+# Min portfolio
+
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[Julia](https://github.com/jk222rp)
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
-
-[Körbar version av projektet](http://jk222rp.github.io/ProjektskelettHT13/)
-
-*Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
+[Körbar version av projektet](http://jk222rp.github.io/ProjektskelettHT13/portfolio/)
 
 ## Beskrivning av projektet
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+Jag ska skapa en portfolio där jag kan lägga upp egna ritade/målade bilder, sorterade i olika kategorier beroende på vad bilderna är målade med för stil (blyerts, pastell osv.). Dessutom ska jag kunna ha lite information om varje bild. Portfoliowebbsidan ska även ha en sida där jag kan lägga till information om mig samt en bild. Ännu en sida ska finnas med ett kontaktformulär där man kan skicka meddelanden till mig.
+Jag vill göra en portfolio för att jag har ett stort intresse till att rita och måla och då kan det vara kul att ha en webbsida där jag kan presentera det jag har skapat.
 
 ## Tekniker
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
+Allt ska vara kodat från grund med html, css och även lite javscript.
 
-## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
-
-## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
-
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
+##Begränsningar
+Jag kommer att fejka kontaktformuläret, så det kommer inte ha funktionen att skicka något meddelande till mig.
 
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+[Gantt](https://docs.google.com/spreadsheet/ccc?key=0Anhc468rdPe_dGxENTRWX3A5M1hONTZaZ0oteExYbmc#gid=0)
 
