@@ -8,7 +8,7 @@ Projektmedlemmar:
 
 ## Beskrivning av projektet
 Jag ska skapa en portfolio där jag kan lägga upp egna ritade/målade bilder, sorterade i olika kategorier beroende på vad bilderna är målade med för stil (blyerts, akvarell osv.). Dessutom ska jag kunna ha lite information om varje bild. Portfoliowebbsidan ska även ha en sida där jag kan lägga till information om mig samt en bild. Ännu en sida ska finnas med ett kontaktformulär där man kan skicka meddelanden till mig.
-Jag vill göra en portfolio för att jag har ett stort intresse till att rita och måla och då kan det vara kul att ha en webbsida där jag kan presentera det jag har skapat.
+<br>Jag vill göra en portfolio för att jag har ett stort intresse till att rita och måla och då kan det vara kul att ha en webbsida där jag kan presentera det jag har skapat.
 
 ## Tekniker
 Allt ska vara kodat från grund med html, css och även lite javscript.
